@@ -16,3 +16,6 @@ Me apasiona crear aplicaciones funcionales y escalables, cuidando tanto el backe
 ### 📫 Conéctemos  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/saul-alvarez-lopez/)  
 - 🌐 [Portfolio](https://saulal25.iesmontenaranco.com) 
+
+### 📊 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulal86&layout=compact&theme=tokyonight)
