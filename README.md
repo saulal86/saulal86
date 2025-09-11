@@ -18,5 +18,5 @@ Me apasiona crear aplicaciones funcionales y escalables, cuidando tanto el backe
 - 🌐 [Portfolio](https://saulal25.iesmontenaranco.com) 
 
 ### 📊 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulal86&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulal86&layout=compact&theme=tokyonight&cache_seconds=900)
 
